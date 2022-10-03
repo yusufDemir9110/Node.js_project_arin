@@ -1,0 +1,26 @@
+{
+  "name": "node.js_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufDemir9110/Node.js_project_arin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufDemir9110/Node.js_project_arin/issues"
+  },
+  "homepage": "https://github.com/yusufDemir9110/Node.js_project_arin#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
